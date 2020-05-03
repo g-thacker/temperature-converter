@@ -1,0 +1,5 @@
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\SampleClassLibrary\bin\Debug\SampleClassLibrary.dll
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\SampleClassLibrary\bin\Debug\SampleClassLibrary.pdb
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\SampleClassLibrary\obj\Debug\SampleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\SampleClassLibrary\obj\Debug\SampleClassLibrary.dll
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\SampleClassLibrary\obj\Debug\SampleClassLibrary.pdb
