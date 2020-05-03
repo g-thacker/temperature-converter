@@ -1,0 +1,13 @@
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\bin\Debug\SampleClassLibrary.dll
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\bin\Debug\SampleClassLibrary.pdb
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.csprojAssemblyReference.cache
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.Form1.resources
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.Properties.Resources.resources
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.GenerateResource.cache
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CopyComplete
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\Grayson\Documents\School\CIS\3374\Exam1ConceptsDemo\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
